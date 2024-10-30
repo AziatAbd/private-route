@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 100vw;
+    font-family: 'Arial', sans-serif; /* Change font as necessary */
+    background: linear-gradient(to bottom, #0d0d0d, #1c1c1c);
+    min-height: 100vh;
+    height: 100%;
+
+    color: #fff
+}
